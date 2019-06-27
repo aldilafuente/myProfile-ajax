@@ -1,0 +1,30 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+#header {
+  width: 100%;
+  padding: 20px;
+  background-color: rgb(30, 32, 41);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-size: 30px;
+  font-family: 'Roboto', sans-serif;
+}
+
+#avatar {
+  width: 100px;
+  height: auto;
+  margin: 20px auto;
+  border-radius: 5px;
+  /* display: flex;
+  justify-content: center;
+  align-items: center; */
+}
+
+#avatar img {
+  
+}
